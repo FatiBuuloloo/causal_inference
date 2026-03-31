@@ -44,7 +44,7 @@ With the Causal Impact model confirming a significant drop, I shift to EDA to in
 * **Post-2018 (Intervention):** Immediately after January 2018, RJ's freight values spiked drastically, reaching nearly 26 BRL, while the other states stabilized around 22 BRL.
 * **Business Logic:** The decline in sales was not caused by a flawed marketing campaign. Customers in RJ likely saw the ads and wanted to buy, but experienced "cart abandonment" upon seeing exorbitant shipping costs at checkout. The freight surge acted as a massive disincentive.
 
-### EDA 3: Product DNA Validation (Eliminating Product Bias)
+### EDA 3: Product Validation (Eliminating Product Bias)
 ![Product Category Distribution](Graph_Result/image_5.png)
 
 **Insight:** Could the drop be because the products sold simply lost popularity in RJ? 
